@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "⚔️ Run commands head-to-head and compare their performance. Measures time AND memory."
 license = "MIT"
-repository = "https://github.com/yourusername/clash"
+repository = "https://github.com/mohsinrashid64/clash-cli"
 keywords = ["benchmark", "performance", "cli", "comparison"]
 categories = ["command-line-utilities", "development-tools::profiling"]
 
