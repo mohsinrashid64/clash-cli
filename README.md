@@ -25,7 +25,7 @@ Most benchmarking tools only measure time. But performance isn't just speed — 
 ### Install
 
 ```bash
-git clone https://github.com/yourusername/clash.git
+git clone https://github.com/mohsinrashid64/clash-cli.git
 cd clash
 cargo install --path .
 ```
